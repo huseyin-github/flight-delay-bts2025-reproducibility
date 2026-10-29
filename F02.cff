@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated research manuscript and this repository."
+title: "Flight Arrival Delay Prediction: MATLAB Reproducibility Code (January 2025 BTS)"
+type: software
+authors:
+  - family-names: "Ozkaya"
+    given-names: "Ayse"
+  - family-names: "Korkmaz"
+    given-names: "Huseyin"
+  - family-names: "Ozcelik"
+    given-names: "Salih"
+  - family-names: "Fidanoglu"
+    given-names: "Akif"

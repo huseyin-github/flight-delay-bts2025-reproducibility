@@ -1,0 +1,24 @@
+# Original or derived flight-level data (not included)
+*.xlsx
+*.xls
+*.parquet
+*.mat
+*.zip
+*.csv.gz
+**/Stage27_Full23_5Fold/
+**/*Checkpoint*
+# MATLAB state and local exports
+*.asv
+*.m~
+*.slxc
+*.mlx.autosave
+*.log
+*.tmp
+*.bak
+# Python
+__pycache__/
+*.pyc
+# System
+.DS_Store
+Thumbs.db
+# Keep documented result summaries under results/*.csv
